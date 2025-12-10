@@ -1,5 +1,3 @@
-# Delivery driver problem
-
 [`legs.csv`](legs.csv) describes an undirected graph between numbered nodes
 (stops), with the distance between.
 

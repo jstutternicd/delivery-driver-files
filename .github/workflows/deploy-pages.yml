@@ -44,7 +44,6 @@ jobs:
             --to html5 \
             --metadata title="Delivery driver problem" \
             --css splendor.min.css \
-            --toc \
             -o dist/index.html
 
           # Copy CSV files into the published directory
